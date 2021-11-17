@@ -1,0 +1,32 @@
+h2 {
+    color: lightcoral;
+    font: 1em sans-serif;
+}
+h3 {
+    color: maroon;
+}
+header {
+    padding: 25px;
+}
+.head {
+    text-align: center;
+}
+.vas {
+    width: 150px;
+    height: 200px;
+}
+.first {
+    text-align: center;
+}
+.second {
+    text-align: center;
+}
+.third {
+    text-align: center;
+}
+.fourth {
+    text-align: center;
+}
+.end {
+    text-align: center;
+}
